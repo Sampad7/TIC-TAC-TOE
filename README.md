@@ -16,4 +16,4 @@ A clean, interactive, and fully responsive Tic-Tac-Toe game built for the browse
 **Getting Started**
 1. Clone this repository:
    ```bash
-   
+   git clone https://github.com/Sampad7/TIC-TAC-TOE.git
