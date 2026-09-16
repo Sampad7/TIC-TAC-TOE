@@ -1,9 +1,9 @@
 Tic-Tac-Toe
 
-A clean, interactive, and fully responsive Tic-Tac-Toe game built for the browser. Play locally with a friend or challenge an unbeatable AI opponent!
+A clean, interactive, and fully responsive Tic-Tac-Toe game built for the browser. Play locally with a friend 
 
 **Features**
-* 🎮 **Multiple Game Modes:** Play local 2-player or single-player vs AI.
+* 🎮 **Multiple Game Modes:** Play local 2-player or single-player 
 * 🏆 **Score Tracking:** Live tracking of wins, losses, and draws across sessions.
 * 🎨 **Modern UI:** Clean, mobile-friendly design with smooth victory animations.
 * ⚡ **Lightweight:** Built with zero external dependencies for instant load times.
